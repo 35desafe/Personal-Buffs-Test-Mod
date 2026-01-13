@@ -2,18 +2,18 @@
     {
         "name": "Ancient Sea Gods",
         "type": "Pantheon",
-        "uniques": ["[+5 Culture, +5 Faith, +5 Food] from every [Coast]","[+5 Science, +5 Production] from every [Coast]"]
+        "uniques": ["[+3 Culture, +3 Faith, +3 Food] from every [Coast]","[+5 Gold, +5 Production] from every [Coast]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
-        "name": "Holy War",
+        "name": "Holy Conscription",
         "type": "Follower",
-        "uniques": ["May buy [{Military}] units with [Faith] for [1] times their normal Production cost"]
+        "uniques": ["May buy [{All}] units with [Faith] for [1] times their normal Production cost"]
     },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
     {
         "name": "Expansionism",
         "type": "Founder",
-        "uniques": ["[+5 Happiness] for each global city following this religion"]
+        "uniques": ["[+25 Happiness] for each global city following this religion"]
   }
 ]

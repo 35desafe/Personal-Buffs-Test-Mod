@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Ancient Sea Gods",
+        "type": "Pantheon",
+        "uniques": ["[+5 Culture, +5 Faith, +5 Food, +5 Gold, 5 Science, 5 Happiness] from every [Coast]"]
+    },
+///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+    {
+        "name": "Holy War",
+        "type": "Follower",
+        "uniques": ["May buy [{Military}] units with [Faith] for [.5] times their normal Production cost"]
+    },
+///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+    {
+        "name": "Expansionism",
+        "type": "Founder",
+        "uniques": ["[+5 Happiness] for each global city following this religion"]
+  }
+]

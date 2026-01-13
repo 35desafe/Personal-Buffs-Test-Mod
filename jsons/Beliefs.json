@@ -2,7 +2,7 @@
     {
         "name": "Ancient Sea Gods",
         "type": "Pantheon",
-        "uniques": ["[+3 Culture, +3 Faith, +3 Food] from every [Coast]","[+5 Gold, +5 Production] from every [Coast]"]
+        "uniques": ["[+3 Culture, +3 Faith, +3 Food] from every [Coast]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
@@ -14,6 +14,6 @@
     {
         "name": "Expansionism",
         "type": "Founder",
-        "uniques": ["[+25 Happiness] for each global city following this religion"]
+        "uniques": ["[+25 Happiness] for each global city following this religion","[+5 Gold, +5 Production] from every [Coast]"]
   }
 ]
